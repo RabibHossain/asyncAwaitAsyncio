@@ -1,4 +1,4 @@
-<b>What is synchronous code?</b>
+<b>What is synchronous code?</b><br>
 Synchronous code:
 <ul>
   <li>Runs functions one after another</li>
