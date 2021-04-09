@@ -1,5 +1,5 @@
-<b>What is synchronous code?</b><br>
-Synchronous code:<br>
+<b>What is synchronous code?</b>
+Synchronous code:
 <ul>
   <li>Runs functions one after another</li>
 </ul>
